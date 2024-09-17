@@ -1,3 +1,26 @@
+===== 17 September 2024 =====
+
+* September Security Patch
+* Initial QPR3 Release
+* Brought Up Our Custom Settings Beyond Ordinary
+* Added Toggle for GamesProp and Google Photos Spoof
+* Added Toggle for Google Play Integrity Spoof
+* Added Support for Per-App Volume
+* Added Minimal Support for RichTap Vibrations
+* Added Support for Device Alert Sliders
+* Added Support to Remove SAF Restrictions
+* Added Support to Hide ADB and Developer Setting Status
+* Added Support to Make All User Apps Cloneable
+* Added Support for Less Boring Heads-Up Option
+* Enabled and Tuned Split Notification Shade
+* Added Support to Disable QS on Secure Lockscreen
+* Added Support to Disable Power Menu on Secure Lockscreen
+* Added Support for Battery Style Customizations
+* Added Support for Charging Control
+* Added Support to Disable Private DNS When VPN Is On
+* Added Support for Lockscreen Charging Info
+* Added Private DNS Providers
+
 ===== 25 May 2024 =====
 
 * May Security Patch
