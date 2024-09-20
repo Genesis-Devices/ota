@@ -1,11 +1,11 @@
 {
   "response": [
     {
-        "datetime": 1717704286,
-        "filename": "GenesisOS-Utopia-v2.0-miatoll-OFFICIAL-20240606-2006.zip",
-        "id": "2b7fb540b38a65d01c52e97373f01d7b2c2be8189ae0a150a2829183a967c8a8",
-        "size": 2229666601,
-        "url": "https://dl.genesisos.dev/0:/miatoll/GenesisOS-Utopia-v2.0-miatoll-OFFICIAL-20240606-2006.zip",
+        "datetime": 1726851117,
+        "filename": "GenesisOS-Utopia-v3.0-miatoll-OFFICIAL-20240920-1655.zip",
+        "id": "a7377d5cbe2f315d7981af6e57d26b0e97af440f2f7f35f1f904379c01f73f2a",
+        "size": 2452835366,
+        "url": "https://dl.genesisos.dev/0:/miatoll/GenesisOS-Utopia-v3.0-miatoll-OFFICIAL-20240920-1655.zip",
         "version": "v2.0",
         "devicename": "POCO M2 Pro / Redmi Note 9S / Redmi Note 9 Pro / Redmi Note 9 Pro Max / Redmi Note 10 Lite",
         "maintainer": "RiteshSahany"
