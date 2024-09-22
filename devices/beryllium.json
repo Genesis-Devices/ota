@@ -1,14 +1,14 @@
 {
   "response": [
     {
-        "datetime": 1717344014,
-	"filename": "GenesisOS-Utopia-v2.0-beryllium-OFFICIAL-20240602-1601.zip",
-	"id": "48acd695962fee612c03e89e4ac79e3c0eef0ecddb58b023bfff9dc9a7b2a38b",
-	"size": 1980728329,
-        "url": "https://dl.genesisos.dev/0:/beryllium/GenesisOS-Utopia-v2.0-beryllium-OFFICIAL-20240602-1601.zip",
-        "version": "v2.0",
-	"devicename": "Poco F1",
-	"maintainer": "Akshat"
+      "datetime": 1726926588,
+      "filename": "GenesisOS-Utopia-v3.0-beryllium-OFFICIAL-20240921-1353.zip",
+      "id": "7567a6a620df59a4e39add5d849f9f0dadd031a3a77108619bbe0c2c4187fc16",
+      "size": 2296814985,
+      "url": "https://dl.genesisos.dev/0:/beryllium/GenesisOS-Utopia-v3.0-beryllium-OFFICIAL-20240921-1353.zip",
+      "version": "v3.0",
+      "devicename": "Poco F1",
+      "maintainer": "Akshat"
     }
   ]
 }
