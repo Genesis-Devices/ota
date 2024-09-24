@@ -1,12 +1,12 @@
 {
   "response": [
     {
-        "datetime": 1717584928,
-	"filename": "GenesisOS-Utopia-v2.0-devon-OFFICIAL-20240605-1057.zip",
-	"id": "b10911743c5205e42182b0836ebe4ab703be720f5b45e0431436ff1cfc8cc753",
-	"size": 1744177779,
-        "url": "https://dl.genesisos.dev/0:/devon/GenesisOS-Utopia-v2.0-devon-OFFICIAL-20240605-1057.zip",
-        "version": "2.0",
+        "datetime": 1726661726,
+	"filename": "GenesisOS-Utopia-v3.0-devon-OFFICIAL-20240923-1840.zip",
+	"id": "39bf92a1f749a0e511c6226d2f3791dab57f5ea763a8ce794b46ed96555d5aa3",
+	"size": 1789834927,
+        "url": "https://dl.genesisos.dev/0:/devon/GenesisOS-Utopia-v3.0-devon-OFFICIAL-20240923-1840.zip",
+        "version": "3.0",
 	"devicename": "Moto G32",
 	"maintainer": "José"
     }
