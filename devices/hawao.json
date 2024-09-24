@@ -1,12 +1,12 @@
 {
   "response": [
     {
-        "datetime": 1717610639,
-	"filename": "GenesisOS-Utopia-v2.0-hawao-OFFICIAL-20240605-1806.zip",
-	"id": "e3239abb6a252c2896ae7752270e0699aa98669e23e299f0211836d926b0efbf",
+        "datetime": 1727130434,
+	"filename": "GenesisOS-Utopia-v3.0-hawao-OFFICIAL-20240923-2229.zip",
+	"id": "f3a2dcf6fe0a721100b66c8da7da07a171f3d9b454e26b601330fd66263c8b3a",
 	"size": 1740228149,
-        "url": "https://dl.genesisos.dev/0:/hawao/GenesisOS-Utopia-v2.0-hawao-OFFICIAL-20240605-1806.zip",
-        "version": "v2.0",
+        "url": "https://dl.genesisos.dev/0:/hawao/GenesisOS-Utopia-v3.0-hawao-OFFICIAL-20240923-2229.zip",
+        "version": "v3.0",
 	"devicename": "Moto G42",
 	"maintainer": "José"
     }
