@@ -1,12 +1,12 @@
 {
   "response": [
     {
-        "datetime": 1717612371,
-	"filename": "GenesisOS-Utopia-v2.0-rhode-OFFICIAL-20240605-1834.zip",
-	"id": "a0efa74537d2f683fdc49b903412f8db92e4b7d7ce82988162e3f71235f38091",
-	"size": 1742138610,
-        "url": "https://dl.genesisos.dev/0:/rhode/GenesisOS-Utopia-v2.0-rhode-OFFICIAL-20240605-1834.zip",
-        "version": "v2.0",
+        "datetime": 1727131807,
+	"filename": "GenesisOS-Utopia-v3.0-rhode-OFFICIAL-20240923-2252.zip",
+	"id": "b078d015c9bcefa743a74a165a546202a1724677a92bb754ce2b47b1d6483ca0",
+	"size": 1787927323,
+        "url": "https://dl.genesisos.dev/0:/rhode/GenesisOS-Utopia-v3.0-rhode-OFFICIAL-20240923-2252.zip",
+        "version": "v3.0",
 	"devicename": "Moto G52",
 	"maintainer": "José"
     }
