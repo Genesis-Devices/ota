@@ -1,12 +1,12 @@
 {
   "response": [
     {
-        "datetime": 1717343279,
-	"filename": "GenesisOS-Utopia-v2.0-cupidr-OFFICIAL-20240602-1548.zip",
-	"id": "ac2bf411d7a8106e05d8d4440ecb79e70b38b873877a2c531e7967b4924a5d5b",
-	"size": 2528125058,
-        "url": "https://dl.genesisos.dev/0:/cupidr/GenesisOS-Utopia-v2.0-cupidr-OFFICIAL-20240602-1548.zip",
-        "version": "v2.0",
+        "datetime": 1727622670,
+	"filename": "GenesisOS-Utopia-v3.0-cupidr-OFFICIAL-20240929-1513.zip",
+	"id": "7eb7a433526af4d2dfd8e470f85efe43236d970703145ced38dbe987724db3aa",
+	"size": 2851174671,
+        "url": "https://dl.genesisos.dev/0:/cupidr/GenesisOS-Utopia-v3.0-cupidr-OFFICIAL-20240929-1513.zip",
+        "version": "v3.0",
 	"devicename": "Realme GT 5G",
 	"maintainer": "MNoxx74"
     }
