@@ -1,14 +1,14 @@
 {
   "response": [
     {
-        "datetime": 1709085205,
-	"filename": "GenesisOS-Utopia-v1.0-alioth-OFFICIAL-20240228-0143.zip",
-	"id": "c3d6eda58fb7efc07b0232f2b448f2a4a0c72e34f4c013e740575e341da05e10",
-	"size": 2080901643,
-        "url": "https://dl.genesisos.dev/0:/alioth/GenesisOS-Utopia-v1.0-alioth-OFFICIAL-20240228-0143.zip",
-        "version": "v1.0",
-	"devicename": "Poco F3/ Mi 11x",
-	"maintainer": "Yoriscape x Pain"
+        "datetime": 1727665527,
+	"filename": "GenesisOS-Utopia-v3.0-alioth-OFFICIAL-20240930-0308.zip",
+	"id": "692622999be7a90f27a089ac1aaf6c6b872b5a7661bd4404d39c431893e0c04b",
+	"size": 2174398861,
+        "url": "https://dl.genesisos.dev/0:/alioth/GenesisOS-Utopia-v3.0-alioth-OFFICIAL-20240930-0308.zip",
+        "version": "v3.0",
+	"devicename": "Poco F3",
+	"maintainer": "Perses x Pain"
     }
   ]
 }
